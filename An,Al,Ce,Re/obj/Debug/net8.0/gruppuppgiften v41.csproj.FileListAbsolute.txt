@@ -1,0 +1,14 @@
+C:\Users\angel\OneDrive\Skrivbord\Cybersecurity\Ny mapp\grupp tjejor An,Al,Ce,Re\obj\Debug\net8.0\gruppuppgiften v41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Skrivbord\Cybersecurity\Ny mapp\grupp tjejor An,Al,Ce,Re\obj\Debug\net8.0\gruppuppgiften v41.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Skrivbord\Cybersecurity\Ny mapp\grupp tjejor An,Al,Ce,Re\obj\Debug\net8.0\gruppuppgiften v41.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Skrivbord\Cybersecurity\Ny mapp\grupp tjejor An,Al,Ce,Re\obj\Debug\net8.0\gruppuppgiften v41.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Skrivbord\Cybersecurity\Ny mapp\grupp tjejor An,Al,Ce,Re\bin\Debug\net8.0\gruppuppgiften v41.exe
+C:\Users\angel\OneDrive\Skrivbord\Cybersecurity\Ny mapp\grupp tjejor An,Al,Ce,Re\bin\Debug\net8.0\gruppuppgiften v41.deps.json
+C:\Users\angel\OneDrive\Skrivbord\Cybersecurity\Ny mapp\grupp tjejor An,Al,Ce,Re\bin\Debug\net8.0\gruppuppgiften v41.runtimeconfig.json
+C:\Users\angel\OneDrive\Skrivbord\Cybersecurity\Ny mapp\grupp tjejor An,Al,Ce,Re\bin\Debug\net8.0\gruppuppgiften v41.dll
+C:\Users\angel\OneDrive\Skrivbord\Cybersecurity\Ny mapp\grupp tjejor An,Al,Ce,Re\bin\Debug\net8.0\gruppuppgiften v41.pdb
+C:\Users\angel\OneDrive\Skrivbord\Cybersecurity\Ny mapp\grupp tjejor An,Al,Ce,Re\obj\Debug\net8.0\gruppuppgiften v41.dll
+C:\Users\angel\OneDrive\Skrivbord\Cybersecurity\Ny mapp\grupp tjejor An,Al,Ce,Re\obj\Debug\net8.0\refint\gruppuppgiften v41.dll
+C:\Users\angel\OneDrive\Skrivbord\Cybersecurity\Ny mapp\grupp tjejor An,Al,Ce,Re\obj\Debug\net8.0\gruppuppgiften v41.pdb
+C:\Users\angel\OneDrive\Skrivbord\Cybersecurity\Ny mapp\grupp tjejor An,Al,Ce,Re\obj\Debug\net8.0\gruppuppgiften v41.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Skrivbord\Cybersecurity\Ny mapp\grupp tjejor An,Al,Ce,Re\obj\Debug\net8.0\ref\gruppuppgiften v41.dll
